@@ -22,10 +22,16 @@
 
 ## 実行手順
 
-3つのターミナルに以下のコマンドを入力する。  
-`$roscore`  
+3つのターミナルに以下のコマンド順番に入力する。  
+
+ターミナル1  
+`$roscore`   
+ターミナル2  
 `$rosrun mypkg count.py`  
+ターミナル3  
 `$rosrun mypkg fukitu.py`  
+ターミナル4  
+`$rostopic echo /fukitu`
 
 ---
 
