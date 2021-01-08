@@ -9,7 +9,7 @@
 
 ## 概要
 
-　四倍にした数字を出力する。
+　4倍にした数字を出力する。
  
 ---
 
@@ -24,12 +24,19 @@
 
 `$cd ~/catkin_ws/src/`  
 `&git clone https://github.com/sasato0703/mypkg.git`  
-`cd ..`  
-`catkin_make`  
+`$cd ..`  
+`$catkin_make`  
 
 ---
 
 ## 実行手順
+
+ディレクトリに移動する。  
+`$cd ~/catkin_ws/src/mypkg/scripts/`
+
+パーミッションの設定
+`$chmod +x count.py`
+`$chmod +x fukitu.py`
 
 4つのターミナルに以下のコマンド順番に入力する。  
 
