@@ -23,7 +23,7 @@
 ## インストール方法
 
 `$cd ~/catkin_ws/src/`  
-`&git clone`  
+`&git clone https://github.com/sasato0703/mypkg.git`  
 `cd ..`  
 `catkin_make`  
 
