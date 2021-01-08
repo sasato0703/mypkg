@@ -15,17 +15,17 @@
 
 ## 動作環境
 
-・Ubuntu 20.04
-・Raspberry Pi 4 ModelB
+・Ubuntu 20.04  
+・Raspberry Pi 4 ModelB  
 
 ---
 
 ## インストール方法
 
-`$cd ~/catkin_ws/src/`
-`&git clone`
-`cd ..`
-`catkin_make`
+`$cd ~/catkin_ws/src/`  
+`&git clone`  
+`cd ..`  
+`catkin_make`  
 
 ---
 
