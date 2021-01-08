@@ -32,7 +32,7 @@
 ## 実行手順
 
 ディレクトリに移動する。  
-`$cd ~/catkin_ws/src/mypkg/scripts/`
+`$cd ~/catkin_ws/src/mypkg/scripts/`  
 
 パーミッションの設定
 `$chmod +x count.py`
